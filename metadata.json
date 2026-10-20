@@ -1,0 +1,6 @@
+{
+  "name": "Cronos Bíblico - Libro Digital de la Línea de Tiempo",
+  "description": "Libro digital interactivo con la línea de tiempo bíblica completa, resúmenes ilustrados de personajes y los acontecimientos clave de las Sagradas Escrituras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
